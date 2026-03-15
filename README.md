@@ -59,6 +59,10 @@ The dataset contains information about passengers such as:
 * Processed dataset ready for machine learning models
 * Training and testing datasets saved for further use
 
+#OUTPUT
+
+<img width="1189" height="377" alt="Image" src="https://github.com/user-attachments/assets/a03f06ca-714e-4b5d-8a3a-97b5700ecbaa" />
+
 ---
 
 ## Conclusion
